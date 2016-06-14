@@ -8,6 +8,7 @@ public class PocUtils {
 	
 	public static void main(String[] args) {
 		printVersion();
+		System.out.println("End");
 	}
 
 }
